@@ -1,5 +1,0 @@
-C:/Users/annlu/CSE167/hw1-windows/out/build/x64-debug/CMakeFiles/HelloSquare2.dir
-C:/Users/annlu/CSE167/hw1-windows/out/build/x64-debug/CMakeFiles/Mandelbrot.dir
-C:/Users/annlu/CSE167/hw1-windows/out/build/x64-debug/CMakeFiles/CopyShaders.dir
-C:/Users/annlu/CSE167/hw1-windows/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/annlu/CSE167/hw1-windows/out/build/x64-debug/CMakeFiles/rebuild_cache.dir

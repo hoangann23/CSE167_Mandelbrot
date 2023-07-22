@@ -1,0 +1,6 @@
+# ninja log v5
+1	46	0	CMakeFiles/CopyShaders	2d69112dc24b402e
+1	46	0	C:/Users/annlu/CSE167/hw1-windows/out/build/x64-debug/CMakeFiles/CopyShaders	2d69112dc24b402e
+51	755	7117291977808615	CMakeFiles/Mandelbrot.dir/src/Shader.cpp.obj	15323d986b21e1c5
+47	1047	7117291980718709	CMakeFiles/Mandelbrot.dir/src/Mandelbrot.cpp.obj	e19e12eaa099b669
+1048	1355	7117291983735249	Mandelbrot.exe	5bd5eef336021be
